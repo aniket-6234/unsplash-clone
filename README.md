@@ -1,5 +1,7 @@
 # Using Unsplash API building this Project
 This is totally responsive and UI/UX design is on next level.
+I have used the concept of useState, useEffect, axios, and many more.
+It is easy to do that, but finding the original data from an API is the toughest part for me.
 
 # Getting Started with Create React App
 
